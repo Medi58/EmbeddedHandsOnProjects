@@ -7,8 +7,6 @@ A simple demonstration on how to use timer interrupts on the STM32F4Discovery bo
 
 This chornometer measures time 1 milliseconds precision.
 
-Use push button to start and stop time
-observe time on STM32 Studio
 
 ***Hardware Required:***
 
