@@ -22,4 +22,5 @@ breadboard
 Connect push button to PA8 
 
 Use push button to start and stop time
+
 observe time on STM32 Studio
