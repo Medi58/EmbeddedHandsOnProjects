@@ -1,4 +1,4 @@
-Chornometer on 
+Chornometer with stm32F4 + Keil + CubeMX
 
 
 Introduction
