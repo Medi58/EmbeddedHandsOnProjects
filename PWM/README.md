@@ -6,9 +6,13 @@ when you gradually increase or decrease your PWM value from 0 (all the way off) 
 **Hardware Required:**
 
 STM32F4 Discovery board
+
 LED
+
 330-ohm resistor
+
 hook-up wires
+
 breadboard
 
 
