@@ -1,1 +1,1 @@
-# EmbeddedHandsOnProjects
+# Embedded Hands On Projects
