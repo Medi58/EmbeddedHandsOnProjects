@@ -1,6 +1,6 @@
 ***PWM***
 
-This example demonstrates the use pulse width modulation (PWM) to increase or decrease brightness of led 
+This example demonstrates the use pulse width modulation (PWM) with Timer channel to increase or decrease brightness of led 
 when you gradually increase or decrease your PWM value between 0 (all the way off) and 200 (all the way on).
 
 **Hardware Required:**
