@@ -20,6 +20,8 @@ breadboard
 
 Connect push button to PA8 
 
+Use Reset Button on STM32 borad to reset the time.
+
 Use push button to start and stop time
 
 observe time on STM32 Studio
