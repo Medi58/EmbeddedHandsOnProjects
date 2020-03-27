@@ -9,6 +9,6 @@ This is a project using the DHT11 Temperature/Humidity Sensor with STM32CubeMx a
 
 STM32F4 Discovery board
 
-1 Push Button
+DHT11
 
 breadboard
